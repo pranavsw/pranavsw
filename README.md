@@ -31,8 +31,8 @@ Always curious to learn, experiment and build things that solve real-world probl
 
 <div align="center">
   <img
-    src="https://views-counter-6qq4.vercel.app/api/views/svg"
-    alt="Profile views"
+  src="https://views-counter-6qq4.vercel.app/api/views/svg?v=2"
+  alt="Profile views"
   />
   <br/>
   <sub>Made with ❤️ by <a href="https://github.com/pranavsw">pranavsw</a></sub>
