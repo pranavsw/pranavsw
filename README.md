@@ -16,15 +16,13 @@ Here are some ideas to get you started:
 -->
 Hey! I'm **Pranav Wangwad**, a software developer passionate about building scalable backend systems, distributed applications, cloud infrastructure and cool AI stuff.
 
-I enjoy working across the entire development lifecycle from designing APIs and microservices to building applications, automating deployments and exploring on-device AI.
-
 Currently exploring distributed systems, DevOps, cloud technologies, LLMs, RAG and local AI inference.
 
 Always curious to learn, experiment and build things that solve real-world problems.
 
 
 ## Tech Stack
-![Languages](https://skillicons.dev/icons?i=java,python,cpp,js,ts,go&theme=dark)
+![Languages](https://skillicons.dev/icons?i=cpp,js,ts,go,java,python&theme=dark)
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,spring,react,nextjs,flutter,dart&theme=dark)
 ![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase,rabbitmq&theme=dark)
 ![DevOps](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,linux,terraform,githubactions,git,github&theme=dark)
