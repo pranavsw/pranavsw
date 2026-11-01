@@ -27,3 +27,10 @@ Always curious to learn, experiment and build things that solve real-world probl
 ![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase,rabbitmq&theme=dark)
 ![DevOps](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,linux,terraform,githubactions,git,github&theme=dark)
 ![AI](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark)
+
+<div align="center">
+  <img
+    src="https://views-counter-6qq4.vercel.app/api/views/svg"
+    alt="Profile views"
+  />
+</div>
