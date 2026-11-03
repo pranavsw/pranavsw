@@ -21,7 +21,7 @@ Currently exploring distributed systems, DevOps, cloud technologies, LLMs, RAG a
 Always curious to learn, experiment and build things that solve real-world problems.
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
