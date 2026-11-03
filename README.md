@@ -82,11 +82,11 @@ Always curious to learn, experiment and build things that solve real-world probl
 ![GitLab](https://img.shields.io/badge/GitLab-242938?style=flat-square&logo=gitlab&logoColor=FC6D26)
 ![VS Code](https://img.shields.io/badge/VS_Code-242938?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 
-<div align="center">
+<div align="left">
   <img
     src="https://views-counter-6qq4.vercel.app/api/views/svg?v=2"
     alt="Profile views"
-    style="width: 100%; max-width: 250px; height: auto;"
+    style="width: 50%; height: auto;"
   />
   <br/>
   <sub>Made with ❤️ by <a href="https://github.com/pranavsw">pranavsw</a></sub>
